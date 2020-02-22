@@ -1,0 +1,3 @@
+cd ./frontend/node_modules
+cd ./api/node_modules
+.idea
